@@ -579,3 +579,14 @@ th:last-child{
 #shop{
     margin-left: 20%;
 }
+
+/* Adjusted logo size */
+.navbar-brand-logo {
+    max-width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .footer-brand-logo{
+    max-width: 100px;
+    height: auto;
+  }
